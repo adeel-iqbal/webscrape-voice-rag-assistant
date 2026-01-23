@@ -88,7 +88,7 @@ Side-by-side Display with Audio Players
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/adeel-iqbal/webscrape-voice-rag-assistant.git
 cd virtuans-voice-agent
 ```
 
