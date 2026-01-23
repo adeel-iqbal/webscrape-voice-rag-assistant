@@ -1,0 +1,26 @@
+# Orchestration & LLMs
+langchain
+langchain-community
+langchain-openai          # Used for Kimi (OpenAI compatible)
+langchain-google-genai    # Used for Gemini
+langchain-deepseek        # Used for DeepSeek
+langchain-text-splitters
+langchain-chroma
+python-dotenv
+tiktoken
+
+# Scraping & Data
+crawl4ai
+playwright
+chromadb
+pypdf
+
+# UI & Audio
+streamlit
+streamlit-mic-recorder
+audio-recorder-streamlit
+openai                    # Needed for Whisper (STT) and TTS
+pydub
+
+#Installed
+#python -m playwright install chromium
